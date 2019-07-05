@@ -1074,4 +1074,7 @@
 
     <!-- Whether to allow sending active app broadcast -->
     <bool name="config_allowActivePackageBroadcast">true</bool>
+
+    <!-- Show a custom view for FOD -->
+    <bool name="config_needCustomFODView">true</bool>
 </resources>
